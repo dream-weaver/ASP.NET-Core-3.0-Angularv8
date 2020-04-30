@@ -1,0 +1,43 @@
+﻿@model DutchTreat.ViewModel.LoginViewModel
+@{
+    Layout = null;
+}
+
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="~/favicon.ico">
+
+    <title>DutchTreat- Login</title>
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/4.0/examples/sign-in/">
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css">
+
+    <!-- Custom styles for this template -->
+    <link href="~/css/signin.css" rel="stylesheet">
+</head>
+<body class="text-center">
+    <form class="form-signin" method="post">
+        <div asp-validation-summary="ModelOnly"></div>
+        <img class="mb-4" src="~/img/bootstrap-solid.svg" alt="Login Logo" width="72" height="72">
+        <h1 class="h3 mb-3 font-weight-normal">Please sign in</h1>
+        <label asp-for="@Model.UserName" class="sr-only">Email address</label>
+        <input type="email" asp-for="@Model.UserName" class="form-control" placeholder="Email address" required autofocus>
+        <label asp-for="@Model.Password" class="sr-only">Password</label>
+        <input type="password" asp-for="@Model.Password" class="form-control" placeholder="Password" required autofocus>
+        <div class="checkbox mb-3">
+            <label>
+                <input type="checkbox" asp-for="@Model.RememberMe"> Remember me
+            </label>
+        </div>
+        <input type="submit" class="btn btn-lg btn-primary btn-block" value="Login" />
+        <p class="mt-5 mb-3 text-muted">&copy; 2020-2021</p>
+    </form>
+</body>
+</html>

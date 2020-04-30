@@ -1,0 +1,15 @@
+F:\SandBox\DutchTreatPlural\DutchTreat.Data\bin\Debug\netcoreapp3.1\DutchTreat.Data.deps.json
+F:\SandBox\DutchTreatPlural\DutchTreat.Data\bin\Debug\netcoreapp3.1\DutchTreat.Data.runtimeconfig.json
+F:\SandBox\DutchTreatPlural\DutchTreat.Data\bin\Debug\netcoreapp3.1\DutchTreat.Data.runtimeconfig.dev.json
+F:\SandBox\DutchTreatPlural\DutchTreat.Data\bin\Debug\netcoreapp3.1\DutchTreat.Data.dll
+F:\SandBox\DutchTreatPlural\DutchTreat.Data\bin\Debug\netcoreapp3.1\DutchTreat.Data.pdb
+F:\SandBox\DutchTreatPlural\DutchTreat.Data\bin\Debug\netcoreapp3.1\DutchTreat.Entities.dll
+F:\SandBox\DutchTreatPlural\DutchTreat.Data\bin\Debug\netcoreapp3.1\DutchTreat.Entities.pdb
+F:\SandBox\DutchTreatPlural\DutchTreat.Data\obj\Debug\netcoreapp3.1\DutchTreat.Data.csprojAssemblyReference.cache
+F:\SandBox\DutchTreatPlural\DutchTreat.Data\obj\Debug\netcoreapp3.1\DutchTreat.Data.csproj.CoreCompileInputs.cache
+F:\SandBox\DutchTreatPlural\DutchTreat.Data\obj\Debug\netcoreapp3.1\DutchTreat.Data.AssemblyInfoInputs.cache
+F:\SandBox\DutchTreatPlural\DutchTreat.Data\obj\Debug\netcoreapp3.1\DutchTreat.Data.AssemblyInfo.cs
+F:\SandBox\DutchTreatPlural\DutchTreat.Data\obj\Debug\netcoreapp3.1\DutchTreat.Data.csproj.CopyComplete
+F:\SandBox\DutchTreatPlural\DutchTreat.Data\obj\Debug\netcoreapp3.1\DutchTreat.Data.dll
+F:\SandBox\DutchTreatPlural\DutchTreat.Data\obj\Debug\netcoreapp3.1\DutchTreat.Data.pdb
+F:\SandBox\DutchTreatPlural\DutchTreat.Data\obj\Debug\netcoreapp3.1\DutchTreat.Data.genruntimeconfig.cache
